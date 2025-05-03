@@ -61,55 +61,53 @@
 ```shell
 [2024.10~2024.11] | “딥페이크 생성 탐지 및 방해 솔루션 개발 : 백엔드/인프라 리더”
 
-[2024.08-2024.09] | “청소년 독해 능력 향상 서비스 개발 : 백엔드 리더/인프라”
+[2024.08-2024.09] | “뉴스를 통한 청소년 독해 능력 향상 웹 서비스 개발 : 백엔드 리더/인프라”
+
+[2024.07-2024.08] | “식물 성장 SNS 플랫폼 개발 : 백엔드 리더/인프라"
+
+[2024.05-2024.05] | "여행 메이트 매칭 웹 서비스 개발 : 팀장/백엔드/프론트"
 
 [2024.01-2024.12] | "SSAFY 전공 자바반 11기"
 - 역량테스트 A+ 등급 취득
 
-[2023.03-2023.12] | "CRUX 클라이밍 커뮤니티 개발 : 팀장/개발"
-
-[2023.01-2024.12] | "자율주행 동아리 STIER : 비전파트 팀원/개발 및 테스트"
-- 2023 자율주행 S/W 고도화 대회 (안전상)
-- 2023 대학생 창작 모빌리티 경진대회 무인 모빌리티 부문 (본선진출)
-
-[2020.12-2021.02] | "[코드프레소XAI양재허브]AI/ML 교육"
-- 2021.02.12 tensorflow자격증 취득
-
-[2020.03-2021.07] | "대학생 창업 동아리 JCJ : 팀원/개발"
-- 창업 유망 300팀 (본선진출)
 ```
 ### ✨ Award
-- **2023 자율주행 S/W 고도화 대회**
-안전상(3위) 수상
+- **DPG AI CHALLENGE 경진대회**
+장려상 수상
+- **삼성청년SW아카데미 1학기 프로젝트 경진대회**
+최우수상 수상
 
 ### 🌟 blog
-- https://back-development.tistory.com/
+- https://nukoori.tistory.com/
 
 ### 🌟 detail
-- https://www.notion.so/ad6fc8cf85f04e36a0a9da927e678b9b
+- https://melodic-thrush-289.notion.site/7c09e3e4b42c4e438190f625157e22d9?pvs=4
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <!-- Language -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
   
- <!--  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=orange"> -->
-  <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-  <br>
-  
-  <!-- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> -->
-  <!-- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> -->
-  <br>
-  
-  <!-- <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> -->
+  <!-- Backend & Infra -->
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
 
-  <!--  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-<!--   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> -->
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   <br>
-  
- <!--  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
-<!--   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
-  <br>
+
+  <!-- Logging & Monitoring -->
+  <!-- <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white">
+  <br> -->
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
